@@ -1,0 +1,52 @@
+.loginForm {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 3em;
+  height: 100%;
+}
+
+.signup {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 3em;
+  height: 100%;
+}
+
+.postPage {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+  margin: auto;
+  margin-top: 3em;
+  height: 100%;
+}
+
+.postListContainer {
+  margin-top: 4em;
+}
+
+.profile {
+  margin-top: 4em;
+}
+
+.card {
+  margin: 10px auto 10px auto;
+  max-width: 40em;
+}
+
+.list-group {
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  margin: auto;
+  margin-top: 2em;
+  height: 100%;
+}
+
+/* .list-group:hover {
+  background-color: lightgray;
+} */
